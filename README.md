@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KevalPatel2
+- 👋 Hi, I’m Keval Patel
 - 👀 I’m interested in web development, software engineering, problem-solving, and learning new technologies.
 - 🌱 I’m currently learning advanced web development techniques, computer security, and enhancing my problem-solving skills through coding challenges.
 - 💞️ I’m looking to collaborate on open-source projects related to web development, software engineering, and technical documentation.
